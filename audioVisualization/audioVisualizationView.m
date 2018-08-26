@@ -3,7 +3,7 @@
 //  audioVisualization
 //
 //  Created by Champ on 26/8/2561 BE.
-//  Copyright © 2561 Champ. All rights reserved.
+//  Copyright © 2561 ABChamp. All rights reserved.
 //
 
 #import "audioVisualizationView.h"
